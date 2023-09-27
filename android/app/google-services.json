@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771817059051",
+    "project_id": "imagepicker-b99bc",
+    "storage_bucket": "imagepicker-b99bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771817059051:android:90ff323b3b68944c1c84ae",
+        "android_client_info": {
+          "package_name": "com.example.imgpicker_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7p4K4Dg_POxU3TQR9wWMIgYBAasXJJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
